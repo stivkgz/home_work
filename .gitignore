@@ -1,0 +1,49 @@
+# Python
+*.pyc
+__pycache__/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# IDE Settings
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/uiDesigner.xml
+
+# Logs and Databases
+*.log
+*.sqlite
+*.sqlite3
+db.sqlite3
+
+# Compiled Python files
+*.pyi
+
+# Compiled C extensions
+*.so
+
+# Backup files
+*~
+
+# Linux-specific
+*~
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
